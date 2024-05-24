@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="11e81e2b-e132-4b0b-b159-3e43410e7986" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/employee-service/src/main/java/com/trung2112/microservice/employeeservice/command_side/aggregate/EmployeeAggregate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee-service/src/main/java/com/trung2112/microservice/employeeservice/command_side/command/CreateEmployeeCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee-service/src/main/java/com/trung2112/microservice/employeeservice/command_side/command/DeleteEmployeeCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee-service/src/main/java/com/trung2112/microservice/employeeservice/command_side/command/UpdateEmployeeCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee-service/src/main/java/com/trung2112/microservice/employeeservice/command_side/controller/EmployeeCommandController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee-service/src/main/java/com/trung2112/microservice/employeeservice/command_side/dto/EmployeeRequestDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee-service/src/main/java/com/trung2112/microservice/employeeservice/command_side/entity/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee-service/src/main/java/com/trung2112/microservice/employeeservice/command_side/event/EmployeeCreatedEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee-service/src/main/java/com/trung2112/microservice/employeeservice/command_side/event/EmployeeDeletedEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee-service/src/main/java/com/trung2112/microservice/employeeservice/command_side/event/EmployeeUpdatedEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee-service/src/main/java/com/trung2112/microservice/employeeservice/command_side/event_handler/EmployeeEventsHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee-service/src/main/java/com/trung2112/microservice/employeeservice/command_side/repository/EmployeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee-service/src/main/java/com/trung2112/microservice/employeeservice/query_side/controller/EmployeeQueryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee-service/src/main/java/com/trung2112/microservice/employeeservice/query_side/dto/EmployeeReponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee-service/src/main/java/com/trung2112/microservice/employeeservice/query_side/projection/EmployeeProjection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee-service/src/main/java/com/trung2112/microservice/employeeservice/query_side/query/GetAllEmployeeQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employee-service/src/main/java/com/trung2112/microservice/employeeservice/query_side/query/GetEmployeeQuery.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2gtwwvnDXRAQjANY764JN9KuRwf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11e81e2b-e132-4b0b-b159-3e43410e7986" name="Changes" comment="" />
+      <created>1716530426011</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716530426011</updated>
+    </task>
+    <servers />
+  </component>
+</project>
